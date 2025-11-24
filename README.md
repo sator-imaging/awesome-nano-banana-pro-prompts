@@ -13,7 +13,7 @@
 
 ## 🌐 View in Web Gallery
 
-**[👉 Browse on youmind.com/nano-banana-pro-prompts](https://youmind.com/nano-banana-pro-prompts)**
+**[👉 Browse on YouMind Nano Banana Pro Prompts Gallery](https://youmind.com/nano-banana-pro-prompts)**
 
 Why use our gallery?
 
@@ -63,7 +63,7 @@ Why use our gallery?
 |--------|-------|
 | 📝 Total Prompts | **511** |
 | ⭐ Featured | **5** |
-| 🔄 Last Updated | **Monday, November 24, 2025 at 3:11:54 AM UTC** |
+| 🔄 Last Updated | **Monday, November 24, 2025 at 3:20:06 AM UTC** |
 
 </div>
 
@@ -7514,6 +7514,16 @@ Due to GitHub's content length limitations, we can only display the first 200 re
 
 **👉 [View all prompts in our Web Gallery](https://youmind.com/nano-banana-pro-prompts)**
 
+The gallery features:
+
+✨ Beautiful masonry grid layout
+
+🔍 Full-text search and filters
+
+🌍 16+ languages support
+
+📱 Mobile-optimized experience
+
 </div>
 
 ---
@@ -7561,6 +7571,6 @@ Licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/).
 **[📝 Submit a Prompt](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts/issues/new?template=submit-prompt.yml)** •
 **[⭐ Star this repo](https://github.com/YouMind-OpenLab/awesome-nano-banana-pro-prompts)**
 
-<sub>🤖 This README is automatically generated. Last updated: 2025-11-24T03:11:54.917Z</sub>
+<sub>🤖 This README is automatically generated. Last updated: 2025-11-24T03:20:06.193Z</sub>
 
 </div>
